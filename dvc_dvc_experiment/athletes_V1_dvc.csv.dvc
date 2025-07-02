@@ -1,0 +1,5 @@
+outs:
+- md5: 108867e0543a66e04df240154f9da87e
+  size: 76890762
+  hash: md5
+  path: athletes_V1_dvc.csv
